@@ -14,7 +14,7 @@ Welcome to my project portfolio! This repository highlights the projects I devel
   - Developed using Python with Requests and Pandas libraries.
   - Real-time data fetching of high-speed rail schedules with JSON format storage.
   - Enhanced readability with beautified outputs, ready for integration into front-end applications.
-- 👉 [View Project Code | 查看專案程式碼](./high_speed_rail_schedule)
+- 👉 [View Project Code | 查看專案程式碼](./python/high_speed_rail_schedule)
 
 ---
 
