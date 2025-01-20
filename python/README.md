@@ -36,7 +36,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - API integration
   - JSON parsing
   - File output
-- **Location:** [Python/High-Speed Rail Schedule.ipynb](./python/High-Speed Rail Schedule.ipynb)
+- **Location:** [python/High-Speed Rail Schedule.ipynb]
 
 ---
 
@@ -46,7 +46,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - Dynamic scraping with `Selenium`
   - Multimedia metadata extraction
   - Managing structured comment data
-- **Location:** [Python/Anime Scraper](./python/)
+- **Location:** [./Python/Anime Scraper.ipynb]
 
 ---
 
@@ -56,8 +56,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - Static web scraping
   - Image downloading and storage
   - Data cleaning
-- **Location:** [Python/PTT Image Scraper/PTT Image Scraper.ipynb](./python/PTT Image Scraper.ipynb)
-
+- **Location:** [./Python/PTT Image Scraper.ipynb]
 ---
 
 ### **4. Weather Data from Taiwan CWB**
@@ -66,8 +65,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - API integration
   - JSON handling
   - Data formatting
-- **Location:** [Python/Weather Scraper.ipynb](./python/Weather Scraper.ipynb)
-
+- **Location:** [./Python/Weather Scraper.ipynb]
 ---
 
 ### **5. Tabelog Restaurant Data Scraper**
@@ -76,8 +74,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - Dynamic scraping with `Selenium`
   - Parsing and structuring restaurant metadata
   - Data analysis with `Pandas`
-- **Location:** [Python/Tabelog Scraper](./python/)
-
+- **Location:** [./Python/Tabelog Scraper.ipynb]
 ---
 
 ## 🌟 Why This Repository?
