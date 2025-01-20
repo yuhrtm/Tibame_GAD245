@@ -91,9 +91,9 @@ This repository serves as a portfolio of my **Python programming expertise**, em
 
 ## 📫 Contact
 If you have any questions or would like to collaborate, feel free to reach out:
-- **Name:** [Your Name]
-- **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Name:** YO,GEN-SHI 余彦志
+- **GitHub:** [Your GitHub Profile](https://github.com/YUHRTM)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YUHRTM)
 
 ---
 
