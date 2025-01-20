@@ -36,7 +36,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - API integration
   - JSON parsing
   - File output
-- **Location:** [Python Projects/High-Speed Rail Schedule](./python/high_speed_rail_schedule)
+- **Location:** [Python Projects/High-Speed Rail Schedule](./python/High-Speed Rail Schedule.ipynb)
 
 ---
 
@@ -46,7 +46,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - Dynamic scraping with `Selenium`
   - Multimedia metadata extraction
   - Managing structured comment data
-- **Location:** [Python Projects/Anime Scraper](./python/anime_scraper)
+- **Location:** [Python Projects/Anime Scraper](./python/)
 
 ---
 
@@ -56,7 +56,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - Static web scraping
   - Image downloading and storage
   - Data cleaning
-- **Location:** [Python Projects/PTT Image Scraper](./python/ptt_image_scraper)
+- **Location:** [Python Projects/PTT Image Scraper](./python/PTT Image Scraper.ipynb)
 
 ---
 
@@ -66,7 +66,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - API integration
   - JSON handling
   - Data formatting
-- **Location:** [Python Projects/Weather Scraper](./python/weather_scraper)
+- **Location:** [Python Projects/Weather Scraper](./python/Weather Scraper.ipynb)
 
 ---
 
@@ -76,7 +76,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - Dynamic scraping with `Selenium`
   - Parsing and structuring restaurant metadata
   - Data analysis with `Pandas`
-- **Location:** [Python Projects/Tabelog Scraper](./python/tabelog_scraper)
+- **Location:** [Python Projects/Tabelog Scraper](./python/)
 
 ---
 
