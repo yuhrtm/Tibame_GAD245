@@ -36,7 +36,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - API integration
   - JSON parsing
   - File output
-- **Location:** [Python Projects/High-Speed Rail Schedule](./python/High-Speed Rail Schedule.ipynb)
+- **Location:** [Python/High-Speed Rail Schedule.ipynb](./python/High-Speed Rail Schedule.ipynb)
 
 ---
 
@@ -46,7 +46,7 @@ This repository showcases various Python-based projects, demonstrating practical
   - Dynamic scraping with `Selenium`
   - Multimedia metadata extraction
   - Managing structured comment data
-- **Location:** [Python Projects/Anime Scraper](./python/)
+- **Location:** [Python/Anime Scraper](./python/)
 
 ---
 
