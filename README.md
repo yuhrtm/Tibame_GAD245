@@ -1,120 +1,114 @@
-# Python Web Scraping & Automation Projects
+# Ian's Learning Journey and Portfolio  
+### Ian 的學習旅程與作品集
 
-This repository showcases various Python-based projects, demonstrating practical applications of **web scraping**, **API integration**, **data automation**, and foundational **Python programming**.
+## Overview  
+This document encapsulates my learning achievements and portfolio developed during the **Generative AI Cloud Application Developer Training Programme**. The course equipped me with a comprehensive set of skills in **big data**, **artificial intelligence applications**, and **cloud technologies**, focusing on practical implementations.
 
----
-
-## 🛠️ Skills and Highlights
-
-1. **Core Python Skills**
-   - Mastery of Python basics, including data structures, file I/O, and exception handling.
-   - Object-oriented programming and modular development.
-   
-2. **Static and Dynamic Web Scraping**
-   - `Requests` and `BeautifulSoup` for parsing static web content.
-   - `Selenium` for scraping JavaScript-rendered pages.
-
-3. **Data Processing and Visualization**
-   - Clean, structure, and analyze data using `Pandas`.
-   - Create visual representations of data using `Matplotlib` and `Seaborn`.
-
-4. **API Integration**
-   - Consuming RESTful APIs for structured data.
-   - Parsing and processing JSON responses.
-
-5. **Specialized Applications**
-   - Extracting media and metadata (e.g., videos, images, captions).
-   - Handling multi-language text data like subtitles and comments.
+### 簡介  
+這份文件總結了我在 **生成式 AI 雲端應用開發工程師養成班** 的學習成就與作品集。課程讓我掌握了 **大數據**、**人工智慧應用** 和 **雲端技術** 的全方位技能，並專注於實務操作。
 
 ---
 
-## 📂 Featured Projects
+## Technical Skills  
+### 核心技術  
 
-### **1. Fetch High-Speed Rail Schedules**
-- **Description:** Retrieve Taiwan High-Speed Rail schedules using their API, structure the data, and export to JSON.
-- **Skills Used:**
-  - API integration
-  - JSON parsing
-  - File output
+### Programming Proficiency  
+- **Python Development**:  
+  - Expertise in core syntax, flow control, and object-oriented programming.  
+  - Structured exception handling and data structures.  
 
+- **Web Scraping**:  
+  - Static and dynamic web scraping using Python libraries such as **BeautifulSoup** and **Selenium**.  
 
----
+- **Data Analysis and Processing**:  
+  - Efficient handling of large datasets using **Numpy** and **Pandas**.  
 
-### **2. Anime Streaming and Comments Scraper**
-- **Description:** Scrape videos and comments (e.g., danmaku) from popular streaming sites like Ani-One.
-- **Skills Used:**
-  - Dynamic scraping with `Selenium`
-  - Multimedia metadata extraction
-  - Managing structured comment data
+#### 程式設計能力  
+- **Python 程式開發**：  
+  - 精通核心語法、流程控制與物件導向程式設計。  
+  - 熟悉結構化的例外處理與資料結構運用。  
 
+- **網路爬蟲技術**：  
+  - 使用 **BeautifulSoup** 和 **Selenium** 處理靜態與動態網頁數據擷取。  
 
----
-
-### **3. PTT Image Scraper**
-- **Description:** Collect images from PTT boards and store them locally for further use or analysis.
-- **Skills Used:**
-  - Static web scraping
-  - Image downloading and storage
-  - Data cleaning
-
+- **資料分析與處理**：  
+  - 運用 **Numpy** 與 **Pandas** 高效處理大型資料集。  
 
 ---
 
-### **4. Weather Data from Taiwan CWB**
-- **Description:** Retrieve real-time weather information using the Taiwan Central Weather Bureau's API.
-- **Skills Used:**
-  - API integration
-  - JSON handling
-  - Data formatting
+### Data Management  
+- **Relational Databases**:  
+  - Practical experience with **MySQL** for structured data storage and manipulation.  
 
+- **Non-relational Databases**:  
+  - Proficient in **MongoDB**, handling unstructured data efficiently.  
 
----
+#### 資料庫管理  
+- **關聯式資料庫**：  
+  - 熟悉 **MySQL** 的結構化資料存儲與操作。  
 
-### **5. Tabelog Restaurant Data Scraper**
-- **Description:** Scrape restaurant reviews, ratings, and metadata from Tabelog, a popular restaurant review website in Japan.
-- **Skills Used:**
-  - Dynamic scraping with `Selenium`
-  - Parsing and structuring restaurant metadata
-  - Data analysis with `Pandas`
-
+- **非關聯式資料庫**：  
+  - 精通 **MongoDB** 的非結構化資料存取。  
 
 ---
 
-## 🌟 Why This Repository?
-This repository serves as a portfolio of my **Python programming expertise**, emphasizing practical problem-solving skills in:
-- Automating data collection and processing.
-- Applying web scraping techniques to static and dynamic content.
-- Integrating APIs into real-world applications.
-- Structuring and analyzing collected data for various use cases.
+### Data Visualisation and Business Intelligence  
+- Advanced use of tools like **Tableau**, **Matplotlib**, and **Seaborn** to produce insightful and interactive dashboards.  
+
+#### 資料視覺化與商業智慧  
+- 熟練運用 **Tableau**、**Matplotlib** 和 **Seaborn** 製作互動式儀表板。  
 
 ---
 
-## 📫 Contact
-If you have any questions or would like to collaborate, feel free to reach out:
-- **Name:** YO,Gen-Shi （余彦志）ian
-- **GitHub:** [Your GitHub Profile](https://github.com/yuhrtm)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yuhrtm)
+### Machine Learning  
+- Applied machine learning techniques, including regression, classification, and clustering.  
+- Experience with **AutoML platforms** for model optimisation and deployment.  
+
+#### 機器學習  
+- 應用回歸、分類和群聚等機器學習技術。  
+- 熟悉 **AutoML 平台** 進行模型優化與部署。  
 
 ---
 
-## 中文說明
+### Cloud Applications  
+- Hands-on experience with **GCP**, **AWS**, and **Azure** services, focusing on deploying generative AI applications.  
 
-### 專案介紹
-此資料庫展示了以 **Python 程式設計** 為核心的實作專案，包含以下重點：
-1. **爬蟲技術應用**
-    - 擷取靜態與動態網站數據。
-    - 處理圖片、影片及多媒體資料。
-2. **API 整合**
-    - 消費 RESTful API。
-    - 處理 JSON 資料並結構化輸出。
-3. **自動化處理**
-    - 利用程式自動化完成常見資料處理任務。
+#### 雲端應用  
+- 實際操作 **GCP**、**AWS** 與 **Azure** 服務，專注於生成式 AI 應用的部署。  
 
-### 專案列表
-- **台灣高鐵時刻表查詢**：透過 API 獲取時刻表並格式化輸出。
-- **動畫瘋爬蟲**：抓取影片與彈幕，實現多媒體數據處理。
-- **PTT 圖片爬蟲**：收集看板內的圖片數據。
-- **氣象局 API 整合**：即時天氣數據查詢與視覺化。
-- **Tabelog 餐廳資料爬蟲**：爬取 Tabelog 網站中的餐廳評論與評分數據。
+---
 
-歡迎參考專案內容，並提供寶貴意見！
+## Projects  
+### 作品集  
+
+### Individual Project  
+- **Project Title**: 
+  - **Summary**:   
+  - **Tech Stack**:
+
+#### 個人專題  
+- **專題名稱**：
+  - **簡介**： 
+  - **技術棧**：
+
+---
+
+### Team Project  
+- **Project Title**: 
+  - **Summary**:   
+  - **Tech Stack**: 
+
+#### 團隊專題  
+- **專題名稱**：
+  - **簡介**：  
+  - **技術棧**：
+
+---
+
+## Contact  
+Feel free to reach out for more details about my learning journey or to discuss potential collaborations:  
+- Email: yuhrtm@gmail.com  
+
+### 聯絡方式  
+如需進一步了解我的學習經歷或討論合作機會，請聯繫：  
+- Email: yuhrtm@gmail.com  
